@@ -32,10 +32,10 @@ Data for day one exercises is available [here](https://drive.google.com/drive/fo
  * 10:30 AM – 11:00 AM  o BREAK
  * 11:00 AM – 12:00 PM  o  [Problem I](Day1/) Software Repositories 
  * 12:00 PM – 01:30 PM  o  LUNCH 
- * 01:30 PM – 01:45 PM  o  [Lecture II](https://github.com/LSSTC-DSFP/Session-21/blob/main/Day1/Data%20Wrangling.pdf) Data Wrangling; B. Scott 
+ * 01:30 PM – 01:45 PM  o  [Lecture II](https://github.com/LSSTC-DSFP/Session-21/blob/main/Day1/Data%20Wrangling.pdf)[:movie_camera:](https://www.youtube.com/watch?v=F7Olk7_L_zw) Data Wrangling; B. Scott 
  * 01:45 PM – 03:00 PM  o [Problem II](https://github.com/LSSTC-DSFP/Session-21/blob/main/Day1/CorrallingUnrulyData.ipynb) Data Wrangling; B. Scott 
  * 03:00 PM – 03:30 PM  o BREAK
- * 03:30 PM - 04:30 PM o [Lecture III](Day1/OOP_Demo.ipynb) – Intro to OOP; O. Lynn ([Slides](Day1/OOP_Slides.pdf) / [Notebook](Day1/OOP_Demo.ipynb))
+ * 03:30 PM - 04:30 PM o [Lecture III](Day1/OOP_Demo.ipynb)[:movie_camera:](https://www.youtube.com/watch?v=aF14uk-naMA) – Intro to OOP; O. Lynn ([Slides](Day1/OOP_Slides.pdf) / [Notebook](Day1/OOP_Demo.ipynb))
  * 04:30 PM - 05:30 PM o [Problem III](Day1/OOP_Exercise.ipynb) – Problem: OOP; O. Lynn  
 
  
@@ -50,10 +50,10 @@ Tuesday, June 4, 2024
 * 09:00 PM – 09:15 AM  o [Lecture IV](https://github.com/LSSTC-DSFP/Session-21/blob/main/Day2/InadequateLaptop.pdf) This Laptop is Inadquate & Introduction to Data Organization; B. Scott  
 * 09:15 PM – 10:30 AM  o [Problem IV](https://github.com/LSSTC-DSFP/Session-21/blob/main/Day2/IntroductionToDataOrganization.ipynb) Introduction to Data Organization; B. Scott 
 * 10:30 AM – 11:00 AM  o BREAK 
-* 11:00 AM – 12:00 PM  o  [Lecture V][(https://github.com/LSSTC-DSFP/Session-21/tree/main/Day2/SQL) – Databases, SQL, and Django; S. Coughlin 
+* 11:00 AM – 12:00 PM  o  [Lecture V](https://github.com/LSSTC-DSFP/Session-21/tree/main/Day2/SQL)[:movie_camera:](https://www.youtube.com/watch?v=OWIknFH9DUY) – Databases, SQL, and Django; S. Coughlin 
 * 12:00 AM - 01:30 PM o LUNCH
 * 01:30 PM – 03:00 PM [Problem V](Day2/) – Problem: SQL servers and database queries; S. Coughlin 
-* 03:00 PM – 04:00 PM o [Lecture VI](https://github.com/LSSTC-DSFP/Session-21/tree/main/Day2/MongoDB) – NoSQL databases: MongoDB; S. Coughlin 
+* 03:00 PM – 04:00 PM o [Lecture VI](https://github.com/LSSTC-DSFP/Session-21/tree/main/Day2/MongoDB)[:movie_camera:](https://www.youtube.com/watch?v=glA6isRA70E) – NoSQL databases: MongoDB; S. Coughlin 
 * 04:00 PM - 04:30 PM o BREAK
 * 04:30 PM – 06:00 PM  o [Problem VI](Day2/) – NoSQL queries; S. Coughlin 
 
@@ -66,7 +66,7 @@ Tuesday, June 4, 2024
 
 Wednesday, June 5, 2024
 
-* 09:00 AM - 10:00 AM o [Lecture VII](Day3/OOP_DeepDives_Slides.pdf) OOP Deep Dives; O. Lynn 
+* 09:00 AM - 10:00 AM o [Lecture VII](Day3/OOP_DeepDives_Slides.pdf)[:movie_camera:](https://www.youtube.com/watch?v=aF14uk-naMA) OOP Deep Dives; O. Lynn 
 * 10:00 AM - 10:30 AM o BREAK
 * 10:30 AM - 12:00 PM o [Problem VII](Day3/OOP_QUAIL.ipynb) OOP Exercise: QUAIL; O. Lynn 
 * 12:00 PM - ??:?? PM o BREAK
@@ -81,11 +81,11 @@ Visit and Tour of NCSA
 
 Thursday, June 6, 2024
 
-* 09:00 AM – 10:00 AM o [Lecture VIII](https://github.com/LSSTC-DSFP/Session-21/blob/main/Day4/Endgame%20Essentials.pdf): Endgame Essentials: CI, Docs, and Everything in Between; O. Lynn 
+* 09:00 AM – 10:00 AM o [Lecture VIII](https://github.com/LSSTC-DSFP/Session-21/blob/main/Day4/Endgame%20Essentials.pdf)[:movie_camera:](https://www.youtube.com/watch?v=aLGV3WaWWFw): Endgame Essentials: CI, Docs, and Everything in Between; O. Lynn 
 * 10:00 AM – 10:30 AM o BREAK 
 * 10:30 AM – 12:00 PM o [Problem VIII](Day4/) Endgame Essentials; O. Lynn  
 * 12:00 PM – 01:30 PM o LUNCH
-* 01:30 PM – 02:30 PM o [Lecture IX](Day4/): High-Performance Python and Parallelization; L. Garrison
+* 01:30 PM – 02:30 PM o [Lecture IX](Day4/)[:movie_camera:](https://www.youtube.com/watch?v=jGFZNXBy4EM): High-Performance Python and Parallelization; L. Garrison
 * 02:30 PM – 04:00 PM o [Problem IX](Day4/): High-Performance Python and Parallelization; L. Garrison 
 * 04:00 PM – 04:30 PM o BREAK 
 * 04:30 PM – 05:00 PM o Hack Pitch Session
@@ -99,7 +99,7 @@ Thursday, June 6, 2024
 
 Friday, June 7, 2024
 
-* 9:00 AM - 10:00  AM o [Lecture X](Day5/): GPU-Accelerated Python; L. Garrison
+* 9:00 AM - 10:00  AM o [Lecture X](Day5/)[:movie_camera:](https://www.youtube.com/watch?v=D0U2V_kzjSI): GPU-Accelerated Python; L. Garrison
 * 10:00 AM - 10:30  AM  o BREAK
 * 10:30 AM – 12:00 PM o [Problem X](Day5/): GPU-Accelerated Python; L. Garrison 
 * 12:00 PM – 01:30 PM o LUNCH 
